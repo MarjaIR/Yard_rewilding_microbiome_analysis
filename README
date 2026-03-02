@@ -1,0 +1,21 @@
+# Rewilding and Oral Microbiome Study
+
+This repository contains R scripts used for statistical analyses in:
+
+"Neighborhood deadwood and yard rewilding modulate commensal microbiomes and inflammatory signals among urbanites"
+
+## Requirements
+- R version 4.3.1
+- ANCOMBC
+- lme4
+- vegan
+- phyloseq
+- tidyverse
+- rsq
+- readr
+- dplyr
+- tibble
+
+## R scripts
+1. ANCOMBC_Rscript.R
+2. LMM_models.R
